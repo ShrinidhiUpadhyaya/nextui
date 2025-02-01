@@ -1,5 +1,20 @@
 # @heroui/theme
 
+## 2.4.7
+
+### Patch Changes
+
+- [#4346](https://github.com/heroui-inc/heroui/pull/4346) [`7804de0`](https://github.com/heroui-inc/heroui/commit/7804de0d89783b2a862341b56097e8f5f6630ae6) Thanks [@macci001](https://github.com/macci001)! - Adding support for global labelPlacement prop. (ENG-1694)
+
+- [#4555](https://github.com/heroui-inc/heroui/pull/4555) [`1965b84`](https://github.com/heroui-inc/heroui/commit/1965b8406a0771427a9afb7584381a5746e37289) Thanks [@Peterl561](https://github.com/Peterl561)! - Adding variants to the Spinner Component.
+
+- [#4636](https://github.com/heroui-inc/heroui/pull/4636) [`06d6f08`](https://github.com/heroui-inc/heroui/commit/06d6f08d8e66217d2135ef46219408a099a1359c) Thanks [@winchesHe](https://github.com/winchesHe)! - Fix tabs slots "wrapper" rename to "tabWrapper" -- Breaking Change (#4552)
+
+- [#4386](https://github.com/heroui-inc/heroui/pull/4386) [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Tailwind variants upgraded to the latest version, classnames adjusted, tests fixed
+
+- Updated dependencies [[`66efa0a`](https://github.com/heroui-inc/heroui/commit/66efa0a08efa96c884829bb38325ec4c799c6e22)]:
+  - @heroui/shared-utils@2.1.4
+
 ## 2.4.6
 
 ### Patch Changes
