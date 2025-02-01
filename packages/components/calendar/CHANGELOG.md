@@ -1,5 +1,23 @@
 # @heroui/calendar
 
+## 2.2.11
+
+### Patch Changes
+
+- [#4614](https://github.com/heroui-inc/heroui/pull/4614) [`cddba82`](https://github.com/heroui-inc/heroui/commit/cddba8281cb161d0a8afb42e20c05094974af981) Thanks [@wingkwong](https://github.com/wingkwong)! - function components cannot be given refs in calendar (#4606)
+
+- [#4386](https://github.com/heroui-inc/heroui/pull/4386) [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Tailwind variants upgraded to the latest version, classnames adjusted, tests fixed
+
+- [#4611](https://github.com/heroui-inc/heroui/pull/4611) [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69) Thanks [@wingkwong](https://github.com/wingkwong)! - bump RA versions
+
+- Updated dependencies [[`66efa0a`](https://github.com/heroui-inc/heroui/commit/66efa0a08efa96c884829bb38325ec4c799c6e22), [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f), [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69)]:
+  - @heroui/shared-utils@2.1.4
+  - @heroui/framer-utils@2.1.8
+  - @heroui/shared-icons@2.1.3
+  - @heroui/use-aria-button@2.2.6
+  - @heroui/react-utils@2.1.5
+  - @heroui/button@2.2.11
+
 ## 2.2.10
 
 ### Patch Changes
